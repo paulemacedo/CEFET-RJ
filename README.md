@@ -18,12 +18,12 @@
 
 <p align="left">
     <a href="https://github.com/paulemacedo/tasks">
-        <img width="262" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=paulemacedo&repo=tasks&theme=react&bg_color=1F222E&title_color=5B82A4&hide_border=true&icon_color=F8D866&show_icons=false" alt="Tasks Repo" />
+        <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=paulemacedo&repo=tasks&theme=react&bg_color=1F222E&title_color=5B82A4&hide_border=true&icon_color=F8D866&show_icons=false" alt="Tasks Repo" />
     </a>
     <a href="https://github.com/paulemacedo/bytedesabor">
-        <img width="262" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=paulemacedo&repo=bytedesabor&theme=react&bg_color=1F222E&title_color=5B82A4&hide_border=true&icon_color=F8D866&show_icons=false" alt="Byte de Sabor Repo"/>
+        <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=paulemacedo&repo=bytedesabor&theme=react&bg_color=1F222E&title_color=5B82A4&hide_border=true&icon_color=F8D866&show_icons=false" alt="Byte de Sabor Repo"/>
     </a>
     <a href="https://github.com/GPMM/Labirinth">
-        <img width="262" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gpmm&repo=Labirinth&theme=react&bg_color=1F222E&title_color=5B82A4&hide_border=true&icon_color=F8D866&show_icons=false" alt="Another Repo"/>
+        <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gpmm&repo=Labirinth&theme=react&bg_color=1F222E&title_color=5B82A4&hide_border=true&icon_color=F8D866&show_icons=false" alt="Another Repo"/>
     </a>
 </p>
