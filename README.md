@@ -15,7 +15,7 @@
 
 <h3 align="center">Projetos Destacados</h2>
 
-<p align="center">
+<p>
     <a href="https://github.com/paulemacedo/tasks">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=paulemacedo&repo=tasks&theme=city_lights&show_owner=true" alt="Tasks Repo" />
     </a>
