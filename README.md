@@ -15,15 +15,15 @@
 
 <h3 align="center">Projetos Destacados</h2>
 
-<p>
+
+<p align="left">
     <a href="https://github.com/paulemacedo/tasks">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=paulemacedo&repo=tasks&theme=city_lights&show_owner=true" alt="Tasks Repo" />
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=paulemacedo&repo=tasks&theme=react&bg_color=1F222E&title_color=5B82A4&hide_border=true&icon_color=F8D866&show_icons=false" alt="Tasks Repo" />
     </a>
     <a href="https://github.com/paulemacedo/bytedesabor">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=paulemacedo&repo=bytedesabor&theme=city_lights&show_owner=true" alt="Byte de Sabor Repo"/>
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=paulemacedo&repo=bytedesabor&theme=react&bg_color=1F222E&title_color=5B82A4&hide_border=true&icon_color=F8D866&show_icons=false" alt="Byte de Sabor Repo"/>
     </a>
     <a href="https://github.com/GPMM/Labirinth">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=GPMM&repo=Labirinth&theme=city_lights&show_owner=true" alt="Labirinth Repo"/>
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gpmm&repo=Labirinth&theme=react&bg_color=1F222E&title_color=5B82A4&hide_border=true&icon_color=F8D866&show_icons=false" alt="Another Repo"/>
     </a>
 </p>
-
