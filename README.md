@@ -17,13 +17,13 @@
 
 <p align="center">
     <a href="https://github.com/paulemacedo/tasks">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=paulemacedo&repo=tasks&theme=tokyonight&show_owner=true" alt="Tasks Repo" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=paulemacedo&repo=tasks&theme=city_lights&show_owner=true" alt="Tasks Repo" />
     </a>
     <a href="https://github.com/paulemacedo/bytedesabor">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=paulemacedo&repo=bytedesabor&theme=tokyonight&show_owner=true" alt="Byte de Sabor Repo"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=paulemacedo&repo=bytedesabor&theme=city_lights&show_owner=true" alt="Byte de Sabor Repo"/>
     </a>
     <a href="https://github.com/GPMM/Labirinth">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=GPMM&repo=Labirinth&theme=tokyonight&show_owner=true" alt="Labirinth Repo"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=GPMM&repo=Labirinth&theme=city_lights&show_owner=true" alt="Labirinth Repo"/>
     </a>
 </p>
 
