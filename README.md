@@ -12,10 +12,10 @@
 
 <p align="center">
     <a href="https://github.com/paulemacedo/tasks">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=paulemacedo&repo=tasks&theme=tokyonight&show_owner=true" alt="Tasks Repo" width="300" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=paulemacedo&repo=tasks&theme=tokyonight&show_owner=true" alt="Tasks Repo" />
     </a>
     <a href="https://github.com/paulemacedo/bytedesabor">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=paulemacedo&repo=bytedesabor&theme=tokyonight&show_owner=true" alt="Byte de Sabor Repo" width="400" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=paulemacedo&repo=bytedesabor&theme=tokyonight&show_owner=true" alt="Byte de Sabor Repo" />
     </a>
 </p>
 
