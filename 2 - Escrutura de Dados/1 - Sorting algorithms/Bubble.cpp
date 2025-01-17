@@ -36,11 +36,20 @@ void bubblesort (int A[], int n)
 
 int main ()
 {
-int list[10] = {10,2,5,1,66,34,6,4,3,5};
+
+int x;
+int list[10];
 int size = sizeof(list) / sizeof(list[0]);
+
+cout << "Digite 10 numeros\n";
+for (int i = 0; i < size; i++)
+{
+    cin >> list[i];
+}
 
 bubblesort(list, size);
 
+cout << "\nArray Ordenado com bubble: ";
 for (int i = 0; i < 10; i++) {
     cout << list[i] << " ";
 }
