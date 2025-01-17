@@ -1,4 +1,6 @@
-<h1 align="center">CEFET/RJ</h1>
+<p align="center">
+    <img src="/Assets/Logo.png" alt="CEFET/RJ" width="200" />
+</p>
 <p align="center">
     <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white" alt="C" />
     <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -15,7 +17,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=paulemacedo&repo=tasks&theme=tokyonight&show_owner=true" alt="Tasks Repo" />
     </a>
     <a href="https://github.com/paulemacedo/bytedesabor">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=paulemacedo&repo=bytedesabor&theme=tokyonight&show_owner=true" alt="Byte de Sabor Repo" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=paulemacedo&repo=bytedesabor&theme=tokyonight&show_owner=true" alt="Byte de Sabor Repo"/>
     </a>
 </p>
 
