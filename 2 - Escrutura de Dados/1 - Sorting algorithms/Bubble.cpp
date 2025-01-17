@@ -1,4 +1,5 @@
 #include <iostream>
+
 using namespace std;
 
 /*
@@ -13,44 +14,38 @@ pretendido (menor, se for crescente ou maior, se for decrescente).
 Faz-se o mesmo processo com o segundo elemento, depois com o terceiro e assim
 sucessivamente até que o array esteja corretamente ordenado
 
-*/
+*/  
 
-void bubblesort (int A[], int n)
-{
-    for (int i = 0; i < n-1; i++)
-    {
-        for (int j = i+1; j < n; j++)
-        {
-            if (A[i] > A[j])
-            {
-                int aux = A[i];
-                A[i] = A[j];
-                A[j] = aux;
-            }
-            
-        }
-        
+void bubblesort(int A[], int n) {
+  for (int i = 0; i < n - 1; i++) {
+    for (int j = i + 1; j < n; j++) {
+      if (A[i] > A[j]) {
+        int aux = A[i];
+        A[i] = A[j];
+        A[j] = aux;
+      }
+
     }
 
+  }
+
 }
 
-int main ()
-{
+int main() {
 
-int x;
-int list[10];
-int size = sizeof(list) / sizeof(list[0]);
+  int x;
+  int list[10];
+  int size = sizeof(list) / sizeof(list[0]);
 
-cout << "Digite 10 numeros\n";
-for (int i = 0; i < size; i++)
-{
+  cout << "Digite 10 numeros\n";
+  for (int i = 0; i < size; i++) {
     cin >> list[i];
-}
+  }
 
-bubblesort(list, size);
+  bubblesort(list, size);
 
-cout << "\nArray Ordenado com bubble: ";
-for (int i = 0; i < 10; i++) {
+  cout << "\nArray Ordenado com bubble: ";
+  for (int i = 0; i < 10; i++) {
     cout << list[i] << " ";
-}
+  }
 }
