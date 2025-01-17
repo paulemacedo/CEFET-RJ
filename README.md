@@ -10,7 +10,7 @@
 <p align="center">Este repositório contém uma coleção de códigos desenvolvidos durante meu curso na CEFET/RJ. Os códigos abrangem diversas disciplinas e linguagens de programação, incluindo C, C++ e Java. Eles representam meu aprendizado e progresso ao longo do curso.</p>
 
 
-<h2 align="center">Projetos Destacados</h2>
+<h3 align="center">Projetos Destacados</h2>
 
 <p align="center">
     <a href="https://github.com/paulemacedo/tasks">
